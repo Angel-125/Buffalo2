@@ -14,8 +14,10 @@ NASA MMSEV: http://www.nasa.gov/exploration/technology/space_exploration_vehicle
 
 Copy the contents of the mod's GameData directory into your GameData folder. Specifically you'll need:
 
-WildBlueIndustries/Buffalo2
-ModuleManager.dll (the latest version is included)
+GameData
+	WildBlueIndustries
+		WildBlueCore
+	ModuleManager.dll (the latest version is included)
 
 If these directories already exist, then delete the existing ones before installing the latest update.
 

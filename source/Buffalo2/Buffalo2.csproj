@@ -89,17 +89,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PartModules\ModulePowerUnitDistributor.cs" />
-    <Compile Include="PartModules\ModulePowerUnitConverter.cs" />
-    <Compile Include="PartModules\BasePartModule.cs" />
-    <Compile Include="PartModules\ModuleIVAVariants.cs" />
-    <Compile Include="PartModules\ModuleResourceVariants.cs" />
-    <Compile Include="PartModules\ModuleWheelSFX.cs" />
+    <Compile Include="PartModules\BreakingGround\ModulePowerUnitDistributor.cs" />
+    <Compile Include="PartModules\BreakingGround\ModulePowerUnitConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Wrappers\WBIOmniStorageWrapper.cs" />
-    <Compile Include="Wrappers\WBTWrapper.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\WildBlueCore\source\WildBlueCore\WildBlueCore.csproj">
+      <Project>{7d8d783f-dda6-4c96-bf65-8905fab07cb5}</Project>
+      <Name>WildBlueCore</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>xcopy /Y "$(TargetPath)" "C:\KSPDev\GameData\WildBlueIndustries\Buffalo2\Plugins\"﻿
