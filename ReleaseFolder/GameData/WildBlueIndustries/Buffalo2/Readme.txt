@@ -23,6 +23,9 @@ If these directories already exist, then delete the existing ones before install
 
 Changes
 
+- Fixes missing B2 Laboratory Module
+- Minor IVA fixes
+
 ---ACKNOWLEDGEMENTS
 
 Module Manager by ialdabaot
