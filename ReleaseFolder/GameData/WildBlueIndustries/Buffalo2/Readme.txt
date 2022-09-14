@@ -21,10 +21,24 @@ GameData
 
 If these directories already exist, then delete the existing ones before installing the latest update.
 
-Changes
+New Parts
 
-- Fixes missing B2 Laboratory Module
-- Minor IVA fixes
+- TR-22 "Thunderbold" Tiltrotor: Requires Kerbal Actuators (included)
+- TR-44 "Lightning Storm" Tiltrotor: Requires Kerbal Actuators (included)
+- Air Blast RCS Thruster: This RCS thruster runs on Atmosphere, allowing it to be used on any world with... wait for it... an atmosphere.
+- Buffalo Wing Type 1: Holds a small amount of LiquidFuel
+- Buffalo Wing Type 2: Holds a small amount of LiquidFuel
+- Buffalo Wing Type 3: Holds a small amount of LiquidFuel
+- Buffalo Wing Type 4: Holds a small amount of LiquidFuel
+- Buffalo Canard Type 1
+- Buffalo Canard Type 2
+- Buffalo Elevon Type 1
+- Buffalo Winglets: Designed as a mounting point for landing gear.
+- Buffalo Wing Root: Holds a small amount of LiquidFuel. Can rotate if DockRotate is installed.
+- B2 Inline Ballast Tank: An inline ballast tank for submarines. Requires SunkWorks.
+- B2 Cargo Bay: Offers several different styles including Rover, Station, and Flatbed, optional endcaps, and optional cargo bay door styles.
+- B2 Cargo Bay (Short): Offers several different styles including Rover, Station, and Flatbed, optional endcaps, and optional cargo bay door styles.
+- LY-5 Mini Landing Gear: sub-scale version of the stock LY-10 Small Landing Gear.
 
 ---ACKNOWLEDGEMENTS
 
