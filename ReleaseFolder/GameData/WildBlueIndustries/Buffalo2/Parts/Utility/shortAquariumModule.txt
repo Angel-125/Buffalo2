@@ -78,6 +78,7 @@ PART
 			NODES
 			{
 				node_attach = 0, 0, 0.66292, 0, 0, -1, 1
+				node_stack_back = 0, 0, 0.66292, 0, 0, 1, 1
 			}
 		}
 		VARIANT
@@ -102,6 +103,7 @@ PART
 			NODES
 			{
 				node_attach = 0, 0, 0.9375, 0, 0, -1, 1
+				node_stack_back = 0, 0, 0.9375, 0, 0, 1, 1
 			}
 		}
 		VARIANT
@@ -126,6 +128,7 @@ PART
 			NODES
 			{
 				node_attach = 0, 0, 0.66292, 0, 0, -1, 1
+				node_stack_back = 0, 0, 0.66292, 0, 0, 1, 1
 			}
 		}
 	}

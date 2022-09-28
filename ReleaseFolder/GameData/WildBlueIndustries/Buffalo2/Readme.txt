@@ -21,9 +21,29 @@ GameData
 
 If these directories already exist, then delete the existing ones before installing the latest update.
 
+Changes
+
+- Fixed B9PS configs- thanks Rodger! :)
+
 New Parts
 
+- B2 Chassis Tank: This small tank holds Liquid Fuel and Oxidizer. It has two length variants: Short and Medium-Short.
+- B2 Hinge (Requires Breaking Ground DLC): This hinge has a limited pivoting range but it's sized to fit the Buffalo Chassis.
 - B2 Side Hatch (Short): This short-length inline body module comes equipped with deployable ladders and doors that open and close. It also doubles as a small cargo bay.
+- B2 Endcap: This simple endcap covers up the ends of the B2 body parts. It has Rover, Station, Superstructure, and Sub variants, and comes in white or blue.
+- B2 Sloped Endcap: This sloped endcap covers up the ends of the B2 body parts. It has Rover, Superstructure (long & short), and Superstructure corridor (long & short).
+- B2 Trailer Frame: This modular frame serves as a mounting point for components like the Buffalo rover's body parts. It has short and medium length variants as well as variants designed to attach the Buffalo Chassis Decoupler (Body variant). The frame make intermodal shipping containers possible.
+- BC-S1 Adapter: This adapter connects the Buffalo Chassis to Size 1 (1.25m) parts. It is offset to account for rover body parts.
+- RB-S1 Adapter: This adapter connects the rover body to Size 1 (1.25m diameter) parts. It has various lengths.
+- SB-S1 Adapter: This adapter connects the submarine body to Size 1 (1.25m diameter) parts. It has various lengths.
+- ST-S1 Adapter: This adapter is specifically designed to connect Station form factor parts to Size 1 (1.25m) parts.
+- Buffalo Chassis (Mini): Designed as a "filler" chassis, this mini chassis adds a little bit of chassis structure to rovers.
+- Buffalo Chassis (Sloped): By popular demand, this sloped chassis provides a fashionable chiseled edge for Buffalo chassis.
+- Buffalo Chassis (5th Wheel): This specialized chassis part has an integrated servo motor that's specially designe to support trailers.
+- Buffalo Chassis Coupler: This docking port is specially designed to fit the Buffalo Chassis. It has several variants to handle a variety of docking situations.
+- Buffalo Chassis Decoupler: Separate unwanted chassis parts with this decoupler.
+- Buffalo Power Chassis: At the expense of some batteries, this chassis has an integrated fuel cell and a solar panel on top.
+- Auxiliary Electronic Navigator: This chassis component is a probe core. It has two length variants: Short and Medium-Short.
 
 ---ACKNOWLEDGEMENTS
 
