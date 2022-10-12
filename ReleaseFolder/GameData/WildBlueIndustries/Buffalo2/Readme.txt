@@ -27,6 +27,9 @@ Changes
 
 New Parts
 
+- B2 Mineshaft: This part is a "Restock-alike" update to the original Mineshaft Portable Crew Tube. If the original Buffalo mod is still installed for some reason, then the updated model will be used in its place.
+- Converter Support Unit: This resource converter supports a variety of conversions with Wild Blue Tools installed, and has similar capabilities to the stock mini ISRU without WBT.
+- Power Support Unit: The PSU is a support unit that provides power to bases and spacecraft that has half the generator capacity of the stock fuel cell array. It can be set up to handle stations and rovers.
 - RSU (Front): The Resource Support Unit holds Liquid Fuel and Oxidizer, but it supports a variety of resources if Wild Blue Tools or B9PS is installed.
 - RSU (Mid): The Resource Support Unit holds Liquid Fuel and Oxidizer, but it supports a variety of resources if Wild Blue Tools or B9PS is installed.
 - RSU (Back): The Resource Support Unit holds Liquid Fuel and Oxidizer, but it supports a variety of resources if Wild Blue Tools or B9PS is installed.
