@@ -30,6 +30,7 @@ New Parts
 - B2 Body Docking Port: This specialized docking port is designed to dock rover bodies together.
 - B2 Passenger Module: This short-length module seats a pair of kerbals in relative comfort.
 - Beta 2 Gravitic Engine: This engine combines the GND-00 "Beta" Gravitic Engine from Kerbal Flying Saucers with a short Buffalo 2 body module. It won't be available unless Kerbal Flying Saucers is installed.
+- Buffalight: This wide-beam light can pivot up and down, change color, and even blink if needed.
 
 ---ACKNOWLEDGEMENTS
 
