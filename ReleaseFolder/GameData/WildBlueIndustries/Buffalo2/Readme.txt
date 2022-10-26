@@ -28,6 +28,8 @@ Changes
 New Parts
 
 - B2 Body Docking Port: This specialized docking port is designed to dock rover bodies together.
+- B2 Gripper Pad: This part provides grip support for rovers (well, rover bodies resting on the ground) and some heat protection.
+- B2 Jack Lift: This part helps players build rovers in the field.
 - B2 Passenger Module: This short-length module seats a pair of kerbals in relative comfort.
 - Beta 2 Gravitic Engine: This engine combines the GND-00 "Beta" Gravitic Engine from Kerbal Flying Saucers with a short Buffalo 2 body module. It won't be available unless Kerbal Flying Saucers is installed.
 - Buffalight: This wide-beam light can pivot up and down, change color, and even blink if needed.
