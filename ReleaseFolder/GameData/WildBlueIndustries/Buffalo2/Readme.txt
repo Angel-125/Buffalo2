@@ -23,16 +23,17 @@ If these directories already exist, then delete the existing ones before install
 
 Changes
 
-- Added new Alt variants to the B2 Trailer Frame.
+- Buffed the resource inputs and outputs on the Power Support Unit.
 
 New Parts
 
-- B2 Body Docking Port: This specialized docking port is designed to dock rover bodies together.
-- B2 Gripper Pad: This part provides grip support for rovers (well, rover bodies resting on the ground) and some heat protection.
-- B2 Jack Lift: This part helps players build rovers in the field.
-- B2 Passenger Module: This short-length module seats a pair of kerbals in relative comfort.
-- Beta 2 Gravitic Engine: This engine combines the GND-00 "Beta" Gravitic Engine from Kerbal Flying Saucers with a short Buffalo 2 body module. It won't be available unless Kerbal Flying Saucers is installed.
-- Buffalight: This wide-beam light can pivot up and down, change color, and even blink if needed.
+- B2 Aquarium Module: This module catches Fish. 
+NOTE: With Snacks installed, the B2 Galley can turn Fish into Snacks. With Snacks Stress enabled, the Aquarium adds the Fishing activity, which will reduce Stress.
+- B2 Bioreactor: This module converts Fish into Liquid Fuel, and IntakeAir into Oxidizer.
+- B2 Fish Tank: This part literally holds Fish.
+- B2 Fuel Cell Module: This part produces Electric Charge from Liquid Fuel and Oxidizer, and Electric Charge from Liquid Fuel and Intake Air.
+
+* Requires SunkWorks
 
 ---ACKNOWLEDGEMENTS
 
@@ -42,6 +43,11 @@ Eve: Order Zero graphic courtesy of Kuzztler and used with permission.
 Sound Effects by Pond 5 used with permission and may NOT be distributed without this mod.
 
 ---LICENSE---
+
+"Peeper" (https://skfb.ly/6Rvp7) by JelloJordan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Art by me:
+
 Art Assets, including .mu, .mbm, and .dds files are copyright 2022 by Michael Billard, All Rights Reserved.
 All source code is GPLV3
 
