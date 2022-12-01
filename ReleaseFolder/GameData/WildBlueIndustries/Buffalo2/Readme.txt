@@ -32,6 +32,8 @@ NOTE: With Snacks installed, the B2 Galley can turn Fish into Snacks. With Snack
 - B2 Bioreactor: This module converts Fish into Liquid Fuel, and IntakeAir into Oxidizer.
 - B2 Fish Tank: This part literally holds Fish.
 - B2 Fuel Cell Module: This part produces Electric Charge from Liquid Fuel and Oxidizer, and Electric Charge from Liquid Fuel and Intake Air.
+- B2 Fuel Tank Module: What this part lackes in crew capacity it makes up for in resource storage capacity.
+- B2 Fuel Tank Module (Short): What this part lackes in crew capacity it makes up for in resource storage capacity.
 - B2 Submarine Sail*: This part provides sonar capabilities for your submarines and has an extendable snorkel for cruising just below the surface. There's even a small service bay on top that's large enough to fit a single external command chair.
 - Guppy Submarine Module: This command pod is specially designed for underwater adventures.
 
