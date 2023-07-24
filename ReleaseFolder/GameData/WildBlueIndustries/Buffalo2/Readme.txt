@@ -21,23 +21,15 @@ GameData
 
 If these directories already exist, then delete the existing ones before installing the latest update.
 
+New Parts
+- B2 Workshop Module (Short): A half-sized version of the B2 Workshop Module.
+- Support Unit Endcap: A Stilt Lift Module without the stilts.
+
 Changes
 
-- Buffed the resource inputs and outputs on the Power Support Unit.
-
-New Parts
-
-- B2 Aquarium Module*: This module catches Fish. 
-NOTE: With Snacks installed, the B2 Galley can turn Fish into Snacks. With Snacks Stress enabled, the Aquarium adds the Fishing activity, which will reduce Stress.
-- B2 Bioreactor: This module converts Fish into Liquid Fuel, and IntakeAir into Oxidizer.
-- B2 Fish Tank: This part literally holds Fish.
-- B2 Fuel Cell Module: This part produces Electric Charge from Liquid Fuel and Oxidizer, and Electric Charge from Liquid Fuel and Intake Air.
-- B2 Fuel Tank Module: What this part lackes in crew capacity it makes up for in resource storage capacity.
-- B2 Fuel Tank Module (Short): What this part lackes in crew capacity it makes up for in resource storage capacity.
-- B2 Submarine Sail*: This part provides sonar capabilities for your submarines and has an extendable snorkel for cruising just below the surface. There's even a small service bay on top that's large enough to fit a single external command chair.
-- Guppy Submarine Module: This command pod is specially designed for underwater adventures.
-
-* Requires SunkWorks
+- Increased the B2 Workshop Module's Sandcastle printing capacity to 800 liters.
+- Added Superstructure part variant to the B2 Endcap.
+- Fixed wrong node size on the Stilt Lift Module.
 
 ---ACKNOWLEDGEMENTS
 
