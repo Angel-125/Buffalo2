@@ -21,15 +21,15 @@ GameData
 
 If these directories already exist, then delete the existing ones before installing the latest update.
 
-New Parts
-- B2 Workshop Module (Short): A half-sized version of the B2 Workshop Module.
-- Support Unit Endcap: A Stilt Lift Module without the stilts.
-
 Changes
 
-- Increased the B2 Workshop Module's Sandcastle printing capacity to 800 liters.
-- Added Superstructure part variant to the B2 Endcap.
-- Fixed wrong node size on the Stilt Lift Module.
+- Added new Slim part variant to the B2 Gripper Pad.
+- Added new Standard and Wide part variants to the B2 Hinge.
+- Added new Standard and Wide part variants to the B2 Flatbed Hinge.
+- Added ModuleCommand to the B2 Hub Module.
+- Bug fixes for attachment nodes.
+- Bug fixes for B2 Laboratory Module when Wild Blue Tools is installed.
+- Bug fix for B2 Mineshaft texture.
 
 ---ACKNOWLEDGEMENTS
 
