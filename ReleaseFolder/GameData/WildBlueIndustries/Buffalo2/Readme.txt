@@ -21,15 +21,21 @@ GameData
 
 If these directories already exist, then delete the existing ones before installing the latest update.
 
+
+HOW TO FIX MISSING PART MODULES ERROR
+This update renames a number of Wild Blue Industries' part modules and may cause KSP to complain when you try to load your craft files.
+To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueCore/wiki/How-To-Fix-Missing-Part-Modules-Warning
+
 Changes
 
-- Added new Slim part variant to the B2 Gripper Pad.
-- Added new Standard and Wide part variants to the B2 Hinge.
-- Added new Standard and Wide part variants to the B2 Flatbed Hinge.
-- Added ModuleCommand to the B2 Hub Module.
-- Bug fixes for attachment nodes.
-- Bug fixes for B2 Laboratory Module when Wild Blue Tools is installed.
-- Bug fix for B2 Mineshaft texture.
+New Parts
+- Mk3 Raised Platform: Contoured to the Mk3 Cargo Bay, this part provides a raised platform to handle the Buffalo 2's wider wheelbase compared to the Mk3 Cargo Bay's relatively narrow floor. 
+  It has part variants for each cargo bay type as well as the Mk3 Cargo Ramp, and can hold resources (requires WBIResources mod) and inventory items.
+  You can surface attach the part to the floor of a Mk3 Cargo Bay, and the use its attachment nodes to attach other raised platforms.
+
+Bug Fixes
+- Fixes Nullref exception with the B2 Submarine Sail.
+- Fixes negative mass value for variants in the B2 Chassis Tank.
 
 ---ACKNOWLEDGEMENTS
 
