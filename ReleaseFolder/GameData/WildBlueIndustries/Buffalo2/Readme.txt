@@ -28,14 +28,8 @@ To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueC
 
 Changes
 
-New Parts
-- Mk3 Raised Platform: Contoured to the Mk3 Cargo Bay, this part provides a raised platform to handle the Buffalo 2's wider wheelbase compared to the Mk3 Cargo Bay's relatively narrow floor. 
-  It has part variants for each cargo bay type as well as the Mk3 Cargo Ramp, and can hold resources (requires WBIResources mod) and inventory items.
-  You can surface attach the part to the floor of a Mk3 Cargo Bay, and the use its attachment nodes to attach other raised platforms.
-
 Bug Fixes
-- Fixes Nullref exception with the B2 Submarine Sail.
-- Fixes negative mass value for variants in the B2 Chassis Tank.
+- Fixes typo in the tilt rotor engines that prevented them from using Atmosphere in electric mode.
 
 ---ACKNOWLEDGEMENTS
 
