@@ -28,7 +28,13 @@ To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueC
 
 Changes
 
-- Updated the B2 Rover Port to include 2 new part variants, enabling it to be used with Size 1 parts.
+Buffalo 2
+
+- Fixed several issues where part variants had zero dry mass.
+
+Wild Blue Core - New Parts
+
+- Added new Mk18 Ram Air Parachute- a steerable chute for vehicles!
 
 ---ACKNOWLEDGEMENTS
 
