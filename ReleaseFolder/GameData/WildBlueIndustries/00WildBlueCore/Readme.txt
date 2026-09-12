@@ -16,57 +16,12 @@ HOW TO FIX MISSING PART MODULES ERROR
 This update renames a number of Wild Blue Industries' part modules and may cause KSP to complain when you try to load your craft files.
 To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueCore/wiki/How-To-Fix-Missing-Part-Modules-Warning
 
-New Parts
-
-- BFP-5 Backpack Paramotor: This electrically powered fan provides forward thrust to kerbals wanting to fly around with their parachutes. Carry extra batteries for longer flight times.
-
 ---CHANGES---
 
-- Kerbals now have 6 inventory slots and slightly increased volume and carrying capacity- thanks JadeOfMaar!
-- Made some KerbalGear optimizations to improve framerates, organize configurations, and cut memory usage.
-- Added WBIModuleEVAAblator, an EVA part module designed to help kerbals keep cool.
-- Added WBIModuleEVAResourceTransfer, an EVA part module designed to make a cargo part's resources available to the kerbal- much like part resources are usable by parts.
-- Added WBIModuleEVAMotor, an EVA part module that provides motive force for a kerbal on EVA.
-- The Z-100 battery pack can now be used by kerbals to power various devices if carried in their inventory.
-- Fixed issue in DialogManager preventing proper initialization of GUI dialogs.
-- Fixed issue with mismatched suit textures and suit meshes.
-- Fixed missing localized strings issue in the KerbalGear prop editor window.
+- Updated list of body locations that Kerbal Gear accepts
+- Minor bug fixes
 
-Sample Configs
-
-WBIModuleEVAAblator
-
-MODULE
-{
-    name = WBIModuleWearableItem
-    moduleID = EVA Cooling Pack
-    evaModules = WBIModuleEVAResourceTransfer;WBIModuleEVAAblator
-}
-
-RESOURCE
-{
-    name = Ablator
-    amount = 10
-    maxAmount = 10
-}
-
-WBIModuleEVAResourceTransfer
-
-MODULE
-{
-    name = WBIModuleWearableItem
-    moduleID = Resource Provider
-    evaModules = WBIModuleEVAResourceTransfer
-}
-
-RESOURCE
-{
-    name = ElectricCharge
-    amount = 100
-    maxAmount = 100
-}
-
---END CHANGES--
+---END CHANGES---
 
 ---ACKNOWLEDGEMENTS
 
