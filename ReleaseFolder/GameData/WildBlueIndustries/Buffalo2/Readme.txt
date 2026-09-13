@@ -29,6 +29,7 @@ To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueC
 ---CHANGES---
 
 - Added Superstructure (Gray) part variants.
+- Fixed some cargo part volumes.
 
 ---END CHANGES---
 
