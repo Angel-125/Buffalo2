@@ -28,6 +28,8 @@ To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueC
 
 ---CHANGES---
 
+- Updated bundled WildBlueCore to version 1.7.0.
+
 - Added Superstructure (Gray) part variants.
 - Fixed some cargo part volumes.
 
