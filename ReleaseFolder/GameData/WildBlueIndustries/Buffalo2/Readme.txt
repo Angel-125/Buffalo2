@@ -30,13 +30,15 @@ To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueC
 
 New Parts
 
-- Buffalo Intermodal Shipping Container (BISC): The Buffalo Intermodal Shipping Container (BISC), a.k.a. "Biscuit," is a cargo container built around the Buffalo Logistics Intermodal Shipping Standard (BLISS). Based on the Buffalo Cargo Unit (BCU)- a measurement standard equal to 1,000 liters of cargo volume- BLISS standardizes the shipment of 6 BCUs per container. From truck to shuttle, space station to offworld base, the BISC provides a standardized way to package and transport goods across a wide variety of vehicles, services, and environments.
-NOTE: BISC needs Wild Blue Core.
+- Buffalo Cargo Container: Inspired by containers made by some citizens from the stars, the Buffalo Cargo Container (BCC) holds 1 Buffalo Cargo Unit (BCU)- a standardized cargo volume equal to 1,000 liters. Its external dimensions are slightly larger to accommodate the container’s structure and handling hardware. Two BCCs fit snugly onto a B2 Cargo Bay, while 6 fit inside a Buffalo Intermodal Shipping Container (BISC).
+
+Changes
+
+- Moved Buffalo 2 parts to their own Buffalo 2 Community Category Kit tab.
 
 Bug Fixes
 
-- Fixed a B9 Part Switch loading error caused by the MetalOre tank definition when SimpleConstruction is installed. Matched Extraplanetary Launchpads tank and subtype dependency checks and removed unused tank definitions.
-
+- Fixed Sandcastle warnings.
 
 ---END CHANGES---
 
@@ -44,7 +46,7 @@ Bug Fixes
 
 Module Manager by ialdabaot
 Buffalo2 icon by flaticon
-Eve: Order Zero graphic courtesy of Kuzztler and used with permission.
+Eve: Order Zero graphic courtesy of Kuzzter and used with permission.
 Sound Effects by Pond 5 used with permission and may NOT be distributed without this mod.
 
 ---LICENSE---
