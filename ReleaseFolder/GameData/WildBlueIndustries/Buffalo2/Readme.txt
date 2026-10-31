@@ -28,6 +28,8 @@ To fix this issue, follow the steps here: https://github.com/Angel-125/WildBlueC
 
 ---CHANGES---
 
+- Updated bundled WildBlueCore to version 1.7.1.
+
 New Parts
 
 - Buffalo Cargo Container: Inspired by containers made by some citizens from the stars, the Buffalo Cargo Container (BCC) holds 1 Buffalo Cargo Unit (BCU)- a standardized cargo volume equal to 1,000 liters. Its external dimensions are slightly larger to accommodate the container’s structure and handling hardware. Two BCCs fit snugly onto a B2 Cargo Bay, while 6 fit inside a Buffalo Intermodal Shipping Container (BISC).
